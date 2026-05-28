@@ -5,9 +5,6 @@ FitGen AI generates optimized meal plans, workout recommendations, calorie track
 
 ---
 
-# 🌐 Live Demo
-
-👉 Add your deployed website link here
 
 ---
 
