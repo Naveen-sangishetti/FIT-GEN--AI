@@ -3,10 +3,7 @@
 AI-powered personalized nutrition and fitness recommendation system designed for Indian users.  
 FitGen AI generates optimized meal plans, workout recommendations, calorie tracking, and health insights using intelligent backend automation and AI logic.
 
----
 
-
----
 
 # ✨ Features
 
