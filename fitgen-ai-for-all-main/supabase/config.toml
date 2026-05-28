@@ -1,0 +1,16 @@
+project_id = "rhdzbwkpddwpjgdhblgd"
+
+[functions.send-otp-email]
+verify_jwt = false
+
+[functions.send-custom-otp]
+verify_jwt = false
+
+[functions.verify-custom-otp]
+verify_jwt = false
+
+[functions.physio-chat]
+verify_jwt = false
+
+[functions.dispatch-physio-call]
+verify_jwt = false
